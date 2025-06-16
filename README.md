@@ -4,7 +4,7 @@
 
 # Laravel Attendance Search Project
 
-A simple Laravel Attendances search system to find internal and external user attendance, with dynamic search capability via email or phone. Authenticated using Laravel bootstrao ui.
+A simple Laravel Attendances search system to find internal and external user attendance, with dynamic search capability via email or phone. Authenticated using Laravel bootstrap ui.
 
 ## Features
 
