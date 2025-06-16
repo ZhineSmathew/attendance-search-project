@@ -7,7 +7,6 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## About Laravel
 
 # Laravel Attendance Search Project
 
@@ -56,6 +55,6 @@ A simple and scalable Laravel-based system to manage internal and external user 
     php artisan db:seed
 
 6, **project serve**
-    php artisan serve
-    npm run dev 
+- php artisan serve
+- npm run dev 
 
