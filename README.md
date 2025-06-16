@@ -39,7 +39,7 @@ A simple and scalable Laravel-based system to manage internal and external user 
 
 ### Tables
 
-- `internal_users`: Contains internal staff user data.
+- `internal_users`: Contains internal user data.
 - `external_users`: Linked to internal users with additional contact details.
 - `attendances`: Tracks login/logout activity by mapping internal & external users.
 
@@ -52,6 +52,7 @@ A simple and scalable Laravel-based system to manage internal and external user 
     php artisan migrate.
 
 5, **Seeder migration**
+
     php artisan db:seed
 
 6, **project serve**
