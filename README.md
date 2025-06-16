@@ -9,9 +9,9 @@
 
 ## About Laravel
 
-# Laravel Attendance Management API
+# Laravel Attendance Search Project
 
-A simple and scalable Laravel-based system to manage internal and external user attendance, with dynamic search capability via email or phone. Authenticated using Laravel Sanctum.
+A simple and scalable Laravel-based system to manage internal and external user attendance, with dynamic search capability via email or phone. Authenticated using Laravel bootstrao ui.
 
 ## Features
 
